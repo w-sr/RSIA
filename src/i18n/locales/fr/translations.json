@@ -1,0 +1,17 @@
+{
+  "select-product": "Sélectionner ce produit",
+  "main-applicant": "Informations principales sur le demandeur",
+  "first-name": "Prénom",
+  "last-name": "Nom de famille",
+  "email": "E-mail",
+  "phone": "Téléphoner",
+  "save": "Enregistrer les informations sur l'application",
+  "first-name-required": "Le prénom est requis",
+  "last-name-required": "Le nom de famille est requis",
+  "email-required": "E-mail est requis",
+  "phone-required": "Le téléphone est requis",
+  "email-invalid": "L'e-mail n'est pas valide",
+  "phone-invalid": "Le téléphone n'est pas valide",
+  "select-application": "sélectionner l'application",
+  "application": "Application"
+}

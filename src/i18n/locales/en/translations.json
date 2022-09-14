@@ -1,0 +1,17 @@
+{
+  "select-product": "Select this product",
+  "main-applicant": "Main Applicant Information",
+  "first-name": "First Name",
+  "last-name": "Last Name",
+  "email": "Email",
+  "phone": "Phone",
+  "save": "Save Applicaiton Info",
+  "first-name-required": "First Name is required",
+  "last-name-required": "Last Name is required",
+  "email-required": "Email is required",
+  "phone-required": "Phone is required",
+  "email-invalid": "Email is invalid",
+  "phone-invalid": "Phone is invalid",
+  "select-application": "Select application",
+  "application": "Application"
+}

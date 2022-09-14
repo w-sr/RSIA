@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LanguageSwitcher /> should match the snapshot 1`] = `
+<div
+  class="sc-bczRLJ"
+>
+  <select
+    class="sc-gsnTZi"
+  >
+    <option
+      class="sc-dkzDqf"
+      value="en"
+    >
+      English
+    </option>
+    <option
+      class="sc-dkzDqf"
+      value="fr"
+    >
+      Français
+    </option>
+  </select>
+</div>
+`;
