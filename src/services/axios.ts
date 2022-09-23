@@ -5,7 +5,7 @@ const axiosInstance = axios.create({
   headers: {
     Accept: "application/json",
     "Content-Type": "application/json",
-    "x-nesto-candidat": "David Haruto",
+    "x-nesto-candidat": "w-sr",
   },
 });
 
